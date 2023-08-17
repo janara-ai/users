@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.single-user{
+  border: 2px solid lightskyblue;
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  box-shadow: 3px 3px 3px lightskyblue;
+  margin-bottom: 10px;
+}
+.input-wrapper{
+  margin: 10px;
+}
+.input-wrapper input{
+  padding: 10px 20px;
+  border-color: lightskyblue;
+  border-radius: 5px;
+}
+
+
+.radio-wrapper {
+  margin-bottom: 10px;
+}
+.radio-wrapper label {
+  margin-right: 20px;
+}
